@@ -1,4 +1,4 @@
-# Fake News Detection (Text Classification)
+# Fake News Detection (NLP, Text Classification)
 
 This project is a proof-of-concept system to classify news as **fake** or **real** using text classification methods. The goal is to show that a simple, automated model can help end users judge the information they receive online (news, social posts, messages, emails, SMS), without depending only on closed or black-box platforms.
 
